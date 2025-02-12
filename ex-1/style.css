@@ -1,4 +1,10 @@
-/* Start coding here  */
+button {
+  padding: 4px 15px;
+  border-radius: 5px;
+  font-size: 17px;
+  cursor: pointer;
+}
+
 .ex-btn {
   padding: 4px 15px;
   border-radius: 5px;
